@@ -1,0 +1,2 @@
+#!/home/rocky/.nvm/versions/node/v8.0.0/bin/node
+require('./index.js');
