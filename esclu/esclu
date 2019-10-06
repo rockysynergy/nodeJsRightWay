@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#!/home/rocky/.nvm/versions/node/v8.0.0/bin/node
-=======
 #!/usr/bin/env node
->>>>>>> 4278af007f2f1834cd48ad98884540809238c2ad
 require('./index.js');

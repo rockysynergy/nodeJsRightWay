@@ -59,9 +59,9 @@ module.exports = (app, es) => {
             }
         };
 
-        const options = {url, json: true, body: esReqBody};
+        /* const options = {url, json: true, body: esReqBody};
 
-        /* const promise = new Promise((resolve, reject) => {
+        const promise = new Promise((resolve, reject) => {
             request.get(options, (err, esRes, esResBody) => {
                 if (err) {
                     reject({error: err});
